@@ -8,7 +8,7 @@ Take a look a the Docker open port on your deamon.
 If you find that your Docker API port is close for security purpose on your
 computer, you can open the docker API, `make open-docker-api`
 
-Then, take a look at [nginx.tf](./nginx.tf) file and apply start an nginx
+Then, take a look at [main.tf](./main.tf) file and apply start an nginx
 container. `terraform apply`!
 
 And check, `curl http://localhost:80` to see  your running web server alive!
