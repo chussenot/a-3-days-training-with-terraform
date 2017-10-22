@@ -4,10 +4,15 @@ Introduction to CI, CD, iac
 Summary
 -------
 
+0. Devops?
 1. About CI and the others concepts
 2. More about Continuous Delivery
 4. About IaC
-5. devops?
+
+Devops?
+----
+
+[Agile infrastructure and operations: how infra-gile are you?](https://pdfs.semanticscholar.org/0ff2/b98578b7fdfc2467698129a5fcb5e8a6e7e9.pdf)
 
 About CI and the others concepts
 -----
